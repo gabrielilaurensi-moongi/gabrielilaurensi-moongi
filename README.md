@@ -1,16 +1,13 @@
-## Hi there 👋
+## 🎀​Sejam muito bem vindos ao meu perfil🎀​
 
-<!--
-**gabrielilaurensi-moongi/gabrielilaurensi-moongi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌸​✨​Meu nome é Gabrieli Grrohs Laurensi​✨​🌸​
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+-  Estou estudando no Alura🎀✨
+-  Estou começando agora, então tenha paciência comigo🎀✨
+-  Espero que meu trabalho te ajue muito 🎀✨
+
+## ​🌸✨​Você pode entrar em contato comigo✨​🌸 
+     gabrielilaurnsi@escola.pr.gov.br
+  @gabrielilaurensi
